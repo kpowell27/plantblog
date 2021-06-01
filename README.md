@@ -2,14 +2,6 @@
 * **Purpose** - To create a reusble template for creating new React & Express applications.
 * **Description** - This application is used to demonstrate an elegant way of connecting a front end React application to a backend Express server
 
-## Prerequisite software
-### Node JS
-* Install [Node.Js](https://nodejs.org/en/)
-* Execute the commands below to quickly install `node.js_v12.16.1-x64`
-```batch
-curl -o "%cd%\node-v12.16.1-x64.msi" "https://nodejs.org/dist/v12.16.1/node-v12.16.1-x64.msi"
-start node-v12.16.1-x64.msi
-```
 
 ## How to use
 
