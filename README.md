@@ -5,12 +5,14 @@
 
 ## How to use
 
-#### Part 2 - Running Express Server
+#### Part 1 - Running Express Server
 * From the root directory of this project, execute
+  * `npm install`
   * `npm run server`
 * Navigate to `localhost:5000/api/plants` to view the json being returned by the Express server.
 
-#### Part 3 - Running React Application
+#### Part 2 - Running React Application
 * From the `client` directory, located in the root directory of this project, execute
+* * `npm install`
   * `npm start`
 * Navigate to `localhost:3000` to view the the ReactJS application.
